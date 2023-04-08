@@ -4,7 +4,7 @@
 "C:\Program Files\Google\Chrome\Application\chrome.exe" -remote-debugging-port=9222 --user-data-dir="C:\Users\kpp01\"
 ```
 
-chrome.exe の path  
+最初の = chrome.exe の path  
 --user-data-dir = chrome のデータを保存する場所(たぶんどこでもいいのでUser直下とかでいいんじゃないかな)  
 
 1.port.bat を実行(エクスプローラー上でダブルクリックとか)  
