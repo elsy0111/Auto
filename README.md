@@ -1,5 +1,5 @@
 ## 前提
-Chrome Driver がインストールされていること（chromedriver.exe に path が通っていること)　　
+Chrome Driver がインストールされていること（chromedriver.exe に path が通っていること)  
 selenuim がインストールされていること (pip install selenium とかで入れよう)
 
 # Run
