@@ -1,0 +1,10 @@
+hint,ほのめかし
+connection,つながり
+institution,団体
+conscious,自覚している
+pale,血の気がない
+self,自分自身
+cutter,裁断器
+sandal,サンダル
+teapot,ティーポット
+belief,信念

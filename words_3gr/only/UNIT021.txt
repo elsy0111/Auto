@@ -1,0 +1,10 @@
+temporary,臨時の
+absolute,完全な
+failure,失敗
+elect,～を選ぶ
+otherwise,さもなければ
+treasure,財宝
+announcement,告知
+typewriter,タイプライター
+impact,影響
+statement,声明

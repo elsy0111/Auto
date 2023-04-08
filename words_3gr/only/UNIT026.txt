@@ -1,0 +1,10 @@
+tap,～を軽くたたく
+rhythm,リズム
+graduate,卒業する
+attitude,態度
+minor,少数派の
+seaside,海辺
+instant,瞬間
+witness,目撃者
+seafood,魚介類
+religion,宗教

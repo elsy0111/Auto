@@ -1,0 +1,10 @@
+toss,～を投げる
+shelf,棚
+dismiss,～を解散させる
+major,大きい方の
+sausage,ソーセージ
+seashore,海辺
+relief,安心
+winner,勝利者
+daytime,昼間
+journal,日誌

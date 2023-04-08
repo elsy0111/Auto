@@ -1,0 +1,10 @@
+income,収入
+determine,～を決定する
+employ,～を雇用する
+security,安全
+proposal,提案
+southern,南の
+lettuce,レタス
+stadium,競技場
+crop,作物
+lord,主人

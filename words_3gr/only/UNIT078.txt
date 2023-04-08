@@ -1,0 +1,10 @@
+rub,～をこする
+jaw,あご
+select,～を選ぶ
+chairman,議長
+risk,危険
+slope,傾斜する
+meantime,合間
+sufficient,十分な
+goose,ガチョウ
+boxer,ボクサー

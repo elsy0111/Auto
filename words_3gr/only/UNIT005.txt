@@ -1,0 +1,10 @@
+cough,せきをする
+horrible,恐ろしい
+silently,静かに
+yell,大声で叫ぶ
+wildly,野生で
+deer,シカ
+journalist,ジャーナリスト
+typist,タイピスト
+motorboat,モーターボート
+lane,細道

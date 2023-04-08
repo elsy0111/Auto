@@ -1,0 +1,10 @@
+absence,欠席
+ceremony,式
+disappoint,～を落胆させる
+entertainment,楽しみ
+informal,形式ばらない
+strict,厳しい
+cleaner,クリーニング店
+engineering,工学
+liberty,自由
+saucer,受け皿

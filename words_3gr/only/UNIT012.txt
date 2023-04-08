@@ -1,0 +1,10 @@
+arrest,～を逮捕する
+victim,被害者
+employee,従業員
+unlucky,不運な
+moonlight,月光
+specialist,専門家
+pudding,プディング
+penny,ペニー
+beast,けだもの
+percentage,パーセント

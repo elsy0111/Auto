@@ -1,0 +1,10 @@
+kite,たこ
+flash,閃光
+terribly,ひどく
+bookcase,書棚
+missing,紛失した
+lightly,軽く
+teacup,ティーカップ
+property,財産
+generation,一世代
+politics,政治学

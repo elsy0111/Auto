@@ -1,0 +1,10 @@
+threaten,～を脅す
+identify,～を見分ける
+pub,パブ
+pointed,先のとがった
+presence,存在
+cliff,崖
+ketchup,ケチャップ
+raincoat,レインコート
+playground,運動場
+guy,男

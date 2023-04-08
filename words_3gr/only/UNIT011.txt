@@ -1,0 +1,10 @@
+require,～を必要とする
+blank,空白の
+application,申込書
+tune,楽曲
+fee,料金
+specific,特定の
+guilty,有罪の
+heel,かかと
+napkin,ナプキン
+devil,悪魔

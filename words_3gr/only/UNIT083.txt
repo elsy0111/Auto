@@ -1,0 +1,10 @@
+bind,～を縛る
+useless,役に立たない
+kangaroo,カンガルー
+closed,閉じた
+yacht,ヨット
+visual,視覚の
+feather,羽根
+offense,違反
+avenue,大通り
+postman,郵便集配人

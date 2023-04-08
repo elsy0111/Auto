@@ -1,0 +1,10 @@
+luggage,手荷物
+occupy,～を占める
+occur,起こる
+highway,幹線道路
+pump,ポンプ
+helpless,体が不自由な
+surface,表面
+drugstore,ドラッグストア
+improvement,改良
+basis,基礎

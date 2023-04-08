@@ -1,0 +1,10 @@
+overnight,夜通し
+bark,ほえる
+neighborhood,近所
+sensible,分別がある
+overcoat,オーバー
+coffeepot,コーヒーポット
+singing,歌うこと
+argument,議論
+firefighter,消防士
+landing,上陸

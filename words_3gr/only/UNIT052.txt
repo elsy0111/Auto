@@ -1,0 +1,10 @@
+attach,～を添える
+balcony,バルコニー
+avoid,～を避ける
+responsibility,責任
+vast,広大な
+liter,リットル
+robber,強盗
+horizon,水平線
+pear,西洋ナシ
+reaction,反応

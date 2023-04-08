@@ -1,0 +1,10 @@
+bless,～に加護を与える
+talent,才能
+calm,穏やかな
+communicate,～を伝達する
+elsewhere,どこかよそへ
+harp,ハープ
+ladder,はしご
+wagon,荷馬車
+distribution,配給
+confidence,信頼

@@ -1,0 +1,10 @@
+whistle,口笛を吹く
+attractive,魅力的な
+expert,専門家
+explore,～を探検する
+sum,合計
+physical,身体の
+practically,実際的に
+announcer,アナウンサー
+lap,ひざ
+babysitter,ベビーシッター

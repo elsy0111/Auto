@@ -1,0 +1,10 @@
+spoil,～を台なしにする
+rude,無礼な
+aircraft,航空機
+transport,～を運ぶ
+considerable,かなりの
+border,境界線
+brightly,明るく
+scarf,スカーフ
+file,ファイル
+user,利用者

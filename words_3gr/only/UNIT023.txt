@@ -1,0 +1,10 @@
+gently,優しく
+wrap,～を包む
+shell,貝殻
+experiment,実験
+known,知られている
+scale,目盛り
+membership,会員資格
+creature,生物
+majority,大多数
+expression,表現

@@ -1,0 +1,10 @@
+atomic,原子力による
+bomb,爆弾
+frighten,～をぞっとさせる
+alike,同様に
+chin,あご
+moving,感動させる
+reward,報酬
+telescope,望遠鏡
+tone,音色
+hearing,聴力

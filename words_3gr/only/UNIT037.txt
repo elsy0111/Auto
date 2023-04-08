@@ -1,0 +1,10 @@
+weep,泣く
+loyal,忠実な
+feature,特徴
+educational,教育の
+bargain,安売り
+bedtime,寝る時間
+needless,不必要な
+palm,手のひら
+reality,現実
+traveler,旅行者

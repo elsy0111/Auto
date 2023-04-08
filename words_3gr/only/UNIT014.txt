@@ -1,0 +1,10 @@
+cruel,残酷な
+comment,意見
+represent,～を表す
+label,ラベル
+essential,絶対必要な
+ordinary,普通の
+development,発展
+composition,構成
+harmony,調和
+sickness,病気

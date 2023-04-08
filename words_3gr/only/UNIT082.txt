@@ -1,0 +1,10 @@
+jewel,宝石
+reflect,～を反射する
+concern,～に関係する
+climate,気候
+sore,痛い
+rapidly,急速に
+bakery,パン屋
+technique,技量
+triangle,三角形
+introduction,紹介

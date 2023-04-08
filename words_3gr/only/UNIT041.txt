@@ -1,0 +1,10 @@
+author,著者
+novel,小説
+possess,～を持っている
+spy,スパイ
+operation,操作
+screw,ねじ
+index,索引
+sketch,スケッチ
+largely,大部分は
+opportunity,機会

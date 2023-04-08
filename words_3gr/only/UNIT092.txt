@@ -1,0 +1,10 @@
+biscuit,ビスケット
+ease,～を和らげる
+hunger,空腹
+whichever,～するものはどれでも
+delighted,喜んでいる
+finance,財務
+fully,完全に
+structure,構造
+pill,錠剤
+selection,選択

@@ -1,0 +1,10 @@
+satisfy,～を満足させる
+client,依頼人
+impress,～に感銘を与える
+homemade,自家製の
+nickname,ニックネーム
+duck,カモ
+nonsense,意味を成さないもの
+complex,複雑な
+eagle,ワシ
+vehicle,車両

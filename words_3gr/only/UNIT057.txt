@@ -1,0 +1,10 @@
+relative,親戚
+settle,～を確定する
+import,～を輸入する
+goods,商品
+unit,1個
+wax,ろう
+indoors,屋内で
+romantic,恋愛の
+banker,銀行員
+theory,理論

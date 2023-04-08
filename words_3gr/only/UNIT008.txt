@@ -1,0 +1,10 @@
+senior,年上の
+management,経営
+bold,大胆な
+oppose,～に反対する
+string,ひも
+learning,学問
+function,機能
+living,生きている
+organization,組織
+literature,文学

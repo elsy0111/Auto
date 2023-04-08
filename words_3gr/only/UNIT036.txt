@@ -1,0 +1,10 @@
+convenient,都合の良い
+split,～を分割する
+hunter,狩人
+translate,～を翻訳する
+aloud,声を出して
+deck,デッキ
+merit,長所
+jeep,小型四輪駆動車
+chimpanzee,チンパンジー
+media,マスメディア

@@ -1,0 +1,10 @@
+bore,～をうんざりさせる
+vague,漠然とした
+global,世界的な
+financial,財政上の
+frame,枠
+learned,学識のある
+stove,ストーブ
+instruction,指示
+option,選択権
+intelligence,知能

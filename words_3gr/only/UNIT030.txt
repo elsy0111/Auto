@@ -1,0 +1,10 @@
+advance,～を前進させる
+technology,科学技術
+clothe,～に服を着せる
+naked,裸の
+cart,荷車
+quarrel,口論
+underground,地下の
+omelette,オムレツ
+prayer,祈り
+fog,霧

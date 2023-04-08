@@ -1,0 +1,10 @@
+mainly,主に
+boast,自慢する
+glance,ちらりと見る
+housework,家事
+speedy,速い
+weapon,武器
+lemonade,レモネード
+kindness,親切
+organ,臓器
+volume,体積

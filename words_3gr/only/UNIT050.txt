@@ -1,0 +1,10 @@
+ignore,～を無視する
+regulation,規則
+crush,～を押しつぶす
+cocktail,カクテル
+patch,当て布
+clothing,衣類
+recent,最近の
+sportsman,スポーツマン
+agreement,合意
+bathtub,浴槽

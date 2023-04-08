@@ -1,0 +1,10 @@
+collector,収集家
+attract,～を引き付ける
+pistol,拳銃
+criminal,犯罪の
+sour,酸っぱい
+paid,有給の
+skill,技量
+horror,恐怖
+breast,胸
+tray,盆

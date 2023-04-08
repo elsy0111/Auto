@@ -1,0 +1,10 @@
+location,場所
+spin,～をぐるぐる回す
+suck,～を吸う
+ashamed,恥じて
+toast,トースト
+slight,わずかの
+seed,種子
+leisure,余暇
+bowling,ボウリング
+response,応答

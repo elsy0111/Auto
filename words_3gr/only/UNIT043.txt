@@ -1,0 +1,10 @@
+suspect,～を疑う
+politician,政治家
+evidence,証拠
+industrial,産業の
+sack,ずだ袋
+specially,特別に
+kingdom,王国
+emotion,感情
+description,記述
+businesswoman,女性実業家

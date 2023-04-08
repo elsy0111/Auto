@@ -1,0 +1,10 @@
+roast,～を焼く
+beefsteak,ビーフステーキ
+altogether,全部で
+evil,悪い
+credit,信用
+drum,太鼓
+kettle,やかん
+combination,組み合わせ
+operator,操作者
+trend,動向

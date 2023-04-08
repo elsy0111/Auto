@@ -1,0 +1,10 @@
+connect,～を連結する
+perfectly,完全に
+cure,治療法
+lung,肺
+stiff,硬い
+quality,質
+dawn,夜明け
+olive,オリーブ
+madam,奥様
+studio,スタジオ

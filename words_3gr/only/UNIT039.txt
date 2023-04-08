@@ -1,0 +1,10 @@
+observe,～を観察する
+growth,成長
+article,記事
+reject,～を拒絶する
+various,さまざまな
+motion,動き
+kiwi,キーウィ（鳥）
+cabbage,キャベツ
+circus,サーカス
+passion,情熱

@@ -1,0 +1,10 @@
+swear,～を誓う
+whatever,～するものは何でも
+consider,～を検討する
+community,地域共同体
+principal,主な
+saw,のこぎり
+link,つながり
+loan,ローン
+carbon,炭素
+exception,例外

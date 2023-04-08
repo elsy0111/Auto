@@ -1,0 +1,10 @@
+beg,～を請う
+sensitive,敏感な
+recognize,～が誰だか分かる
+unusual,珍しい
+lid,ふた
+fancy,空想
+desire,～を望む
+frank,率直な
+orchestra,オーケストラ
+employment,雇用

@@ -1,0 +1,10 @@
+display,～を展示する
+unexpected,予期しない
+cancel,～を取り消す
+appointment,約束
+canoe,カヌー
+technical,技術上の
+walking,歩くこと
+injury,けが
+dirt,ごみ
+explorer,探検家

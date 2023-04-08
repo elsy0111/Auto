@@ -1,0 +1,10 @@
+authority,権限
+approve,～を認可する
+housing,住宅
+project,企画
+whoever,～する人は誰でも
+teaching,教えること
+mistaken,誤った
+rent,賃借料
+grace,品の良さ
+temperature,温度

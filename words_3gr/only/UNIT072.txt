@@ -1,0 +1,10 @@
+refrigerator,冷蔵庫
+afford,～する余裕がある
+regret,～を後悔する
+receipt,領収書
+motorcycle,オートバイ
+sigh,ため息をつく
+bucket,バケツ
+careless,不注意な
+helmet,ヘルメット
+atlas,地図帳

@@ -1,0 +1,10 @@
+review,～を再検討する
+sales,販売の
+lunchtime,昼食時間
+lightning,稲妻
+smart,賢い
+entire,全体の
+flute,フルート
+communication,伝達
+violence,暴力
+democracy,民主主義

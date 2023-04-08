@@ -1,0 +1,10 @@
+sweep,～を掃除する
+chimney,煙突
+fry,～を炒める
+widely,広く
+waiting,待つこと
+suitable,適している
+fever,熱
+intention,意図
+ambulance,救急車
+director,指導者
