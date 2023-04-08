@@ -29,6 +29,7 @@ selenuim がインストールされていること (pip install selenium とか
 (*2)https://nanext.alcnanext.jp/anetn/Student/StUnitList  
 
 # 詳細
+### ここからは必ずしも読まなければならないわけではない
 ## port.bat
 ポートを指定してselenium を実行することで既に開いている chrome の操作が可能になる。  
 その為、main.py でも
