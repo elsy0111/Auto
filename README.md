@@ -45,7 +45,7 @@ options.add_experimental_option("debuggerAddress", "127.0.0.1:9222")
 各Unit ごとに 双方向の辞書型を持っておく。
 
 ## 操作
-基本は x_path による操作。
+基本は x_path による操作。  
 大体要素の x_path は決まってあるが一度手を付けて、「途中からやりますか？」的なことを言われる状態の時は、要素が1つずれたりする。  
 
 ```py:port.py
